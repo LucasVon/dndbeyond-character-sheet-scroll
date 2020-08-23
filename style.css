@@ -1,0 +1,3 @@
+.dnd5e.sheet .window-content, .dnd5e.sheet .window-content form {
+	overflow: scroll!important;
+}

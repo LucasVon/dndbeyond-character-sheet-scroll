@@ -7,7 +7,7 @@
 	"styles": ["./style.css"],
 	"packs": [],
 	"url": "https://github.com/LucasVon/dndbeyond-character-sheet-scroll",
-	"manifest": "https://github.com/LucasVon/dndbeyond-character-sheet-scroll/master/module.json",
+	"manifest": "https://raw.github.com/LucasVon/dndbeyond-character-sheet-scroll/master/module.json",
 	"download": "https://github.com/LucasVon/dndbeyond-character-sheet-scroll/archive/master.zip",
 	"compatibleCoreVersion": "0.6.5"
 }

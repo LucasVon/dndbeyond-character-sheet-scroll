@@ -1,3 +1,7 @@
 .dnd5e.sheet .window-content, .dnd5e.sheet .window-content form {
 	overflow: auto!important;
 }
+
+.dndbcs.sheet.actor.character {
+	max-width: 1260px!important;
+}

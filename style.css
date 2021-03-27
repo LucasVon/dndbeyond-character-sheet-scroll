@@ -4,4 +4,5 @@
 
 .dndbcs.sheet.actor.character {
 	width: 1260px!important;
+	max-width: 1260px!important;
 }
